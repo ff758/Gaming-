@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Simple Game</title>
+  <title>Simple Game</free fire>
   <style>
     body { text-align: center; font-family: sans-serif; }
     #game { width: 200px; height: 200px; margin: 20px auto; background: lightblue; }
